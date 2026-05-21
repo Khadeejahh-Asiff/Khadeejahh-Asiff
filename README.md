@@ -26,7 +26,7 @@ I build fast, scalable web apps using **React**, **Next.js**, **Node.js**, **Nes
 
 I've shipped production features across startup, agency, and freelance environments, working directly with clients to turn requirements into working products. I care about **clean architecture**, **responsive UI**, and code that's **easy to maintain**.
 
-Currently building at **[Techverx](https://techverx.com)**. Open to **remote roles** and **freelance projects** — feel free to connect :)
+Currently building at **[Techverx](https://techverx.com)**. Open to **remote roles** and **freelance projects**, feel free to connect :)
 
 <br clear="both"/>
 
@@ -34,89 +34,36 @@ Currently building at **[Techverx](https://techverx.com)**. Open to **remote rol
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <b>Everyday stack</b>
-</p>
+<p align="center"><b>Technology Stack</b></p>
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img height="72" src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,nodejs,nestjs,express,fastapi,mongodb,postgresql,prisma,supabase,redux,remix,mui&theme=dark&perline=8" alt="Technology Stack" />
 </p>
 
 <br/>
 
-### 🎨 Frontend
+<p align="center"><b>Tools</b></p>
 
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Remix](https://img.shields.io/badge/Remix.js-000000?style=flat-square&logo=remix&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+---
 
-### ⚙️ Backend & APIs
+<p align="center">
+  <img height="72" src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,figma,postman,vscode&theme=dark&perline=8" alt="Tools" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-### 🗄️ Databases & BaaS
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-<details>
-<summary><b>📂 More skills — click to expand</b></summary>
 <br/>
 
-#### State & Data Fetching
-
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![SWR](https://img.shields.io/badge/SWR-000000?style=flat-square)
-![Zustand](https://img.shields.io/badge/Zustand-44339E?style=flat-square)
-
-#### AI & Learning
-
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-6A0DAD?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-00BFFF?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-005571?style=flat-square)
-
-#### Rendering & Architecture
-
-![SSR](https://img.shields.io/badge/SSR-003366?style=flat-square)
-![SSG](https://img.shields.io/badge/SSG-003366?style=flat-square)
-![ISR](https://img.shields.io/badge/ISR-003366?style=flat-square)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-001F54?style=flat-square)
-![Performance](https://img.shields.io/badge/Performance_Optimization-444?style=flat-square)
-
-#### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-
-</details>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSR-003366?style=flat-square" />
+  <img src="https://img.shields.io/badge/SSG-003366?style=flat-square" />
+  <img src="https://img.shields.io/badge/ISR-003366?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-00BFFF?style=flat-square" />
+</p>
 
 ---
 
