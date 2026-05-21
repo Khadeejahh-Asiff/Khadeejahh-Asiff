@@ -1,24 +1,18 @@
-<h1 align="center">Hi, I'm Khadeeja Asif 👋</h1>
-<h3 align="center">Full-Stack Developer · React & Next.js · Node.js & NestJS</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:001F54&height=160&section=header&text=Khadeeja%20Asif&fontColor=E0E0E0&fontSize=45&fontAlignY=35&animation=twinkling" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer+%7C+React+%26+Next.js;Building+Fast+%26+Scalable+Web+Apps;Open+to+Remote+%26+Freelance+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+React+%26+Next.js;Building+Fast+%26+Scalable+Web+Apps;Open+to+Remote+%26+Freelance+Work" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20at%20Techverx-00BFFF?style=for-the-badge&labelColor=001F54" />
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20%7C%20Freelance-003366?style=for-the-badge&labelColor=001F54" />
-</p>
-
-<p align="center">
-  <a href="mailto:khadeejaasif323@gmail.com"><img src="https://img.shields.io/badge/Email-khadeejaasif323%40gmail.com-003366?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/khadeejah-asif/"><img src="https://img.shields.io/badge/LinkedIn-Connect-001F54?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:khadeejaasif323@gmail.com"><img src="https://img.shields.io/badge/Email-khadeejaasif323%40gmail.com-003366?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/khadeejah-asif/"><img src="https://img.shields.io/badge/LinkedIn-Khadeeja%20Asif-001F54?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/Khadeejahh-Asiff"><img src="https://img.shields.io/badge/GitHub-Khadeejahh--Asiff-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-003366?style=flat-square" />
-  <img src="https://img.shields.io/badge/Message-Let%27s%20collaborate-001F54?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Building%20at%20Techverx-00BFFF?style=flat-square" />
   <img src="https://img.shields.io/badge/WhatsApp-%2B92%203334304342-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
 </p>
 
@@ -26,11 +20,11 @@
 
 ## 👩‍💻 About Me
 
-I build **fast, scalable web apps** with **React**, **Next.js**, **Node.js**, **NestJS**, and **MongoDB** — from job portals to internal workflow tools used by real teams.
+Full Stack Developer with experience building **fast, scalable web applications** and **production-ready features** using **React.js**, **Next.js**, **Node.js**, **NestJS**, and **MongoDB**.
 
-I've shipped **production features** across startup, agency, and freelance environments, working directly with clients to turn requirements into working products. I care about **clean architecture**, **responsive UI**, and code that's **easy to maintain**.
+I've shipped products across **startup, agency, and freelance** environments — from job portals to internal workflow tools — working directly with clients to turn requirements into working software.
 
-**Currently building at [Techverx](https://techverx.com).** Open to **remote roles** and **freelance projects** — feel free to connect :)
+Strong focus on **clean architecture**, **responsive UI**, **performance**, and code that's **easy to maintain**. Currently building at **Techverx**. Open to **remote roles** and **freelance projects**.
 
 ---
 
@@ -158,7 +152,4 @@ I've shipped **production features** across startup, agency, and freelance envir
 
 ---
 
-<p align="center">
-  <b>Thanks for stopping by — let's build something great together ✨</b><br/>
-  <sub>Remote roles · freelance projects · or just a tech chat — feel free to connect</sub>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:001F54&height=120&section=footer&text=Let%27s%20Build%20the%20Future%20of%20Code&fontColor=E0E0E0&fontSize=20&fontAlignY=40&animation=twinkling" />
