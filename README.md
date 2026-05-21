@@ -77,56 +77,6 @@ Currently building at **[Techverx](https://techverx.com)**. Open to **remote rol
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏥 Heartland Rehab
-
-> Rehabilitation platform offering personalized physical therapy and recovery programs to help individuals regain strength, mobility, and confidence.
-
-`React.js` `Next.js` `TypeScript` `REST APIs`
-
----
-
-### 📋 AkredCenter
-
-> Web-based accreditation management system with secure dashboard for tracking, submission, approval, and status workflows.
-
-`React.js` `Next.js` `PostgreSQL`
-
----
-
-### 🎫 Tickato
-
-> Ticket management platform for streamlined event ticketing, browsing, and scalable ticket workflows.
-
-`React.js` `Next.js` `Node.js`
-
----
-
-### 📧 DMG — Intelligent Email Automation
-
-> Automates email processing using a **Vision-Language Model (VLM)** to categorize inputs and extract structured JSON for workflow automation.
-
-`AI` `VLM` `FastAPI` `Automation`
-
----
-
-### 💼 HireDroid
-
-> Job portal connecting employers and candidates through skill-focused profiles and efficient hiring workflows.
-
-`React.js` `Next.js` `MongoDB`
-
----
-
-### 📊 ScrumDroid
-
-> Internal management platform for tasks, activity monitoring, and modular operational workflows.
-
-`React.js` `Node.js` `Express.js`
-
----
-
 ## 🎓 Education
 
 **Bachelor of Science in Software Engineering** — University of Central Punjab, Lahore  
