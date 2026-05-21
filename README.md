@@ -23,15 +23,11 @@
 
 ## 👩‍💻 About Me
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img align="left" width="130" alt="Octocat waving" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" />
 
-<br/>
+<img align="right" width="230" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" />
 
-<img align="left" width="140" alt="QR Code" src="https://raw.githubusercontent.com/Khadeejahh-Asiff/Khadeejahh-Asiff/master/qrcode_Khadeejahh-Asiff.github.io.png" />
-
-<img align="right" width="240" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" />
-
-<h3><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45" alt="Wave" /> Hey, I'm Khadeeja 👋</h3>
+### Hey, I'm Khadeeja 👋
 
 *Full Stack Developer · React · Next.js · Node.js · NestJS · MongoDB*
 
