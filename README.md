@@ -46,14 +46,9 @@ Currently building at **[Techverx](https://techverx.com)**. Open to **remote rol
 
 ### Also Worked With
 
-<img height="80" src="https://skillicons.dev/icons?i=remix,mui,openai,socketio,shadcn,framer,nextjs,astro,vercel,pytorch&theme=dark&perline=10" alt="Also worked with" />
+<img height="80" src="https://skillicons.dev/icons?i=remix,mui,openai,socketio,shadcn,framer&theme=dark&perline=8" alt="Remix, MUI, OpenAI, Socket.io, ShadCN, Framer" />
 
----
-
-## 🎓 Education
-
-**Bachelor of Science in Software Engineering** — University of Central Punjab, Lahore  
-`Jul 2020 – Jul 2024` · **CGPA: 3.61 / 4.00**
+<img height="80" src="https://skillicons.dev/icons?i=nextjs,astro,vercel,pytorch&theme=dark&perline=8" alt="SSR, SSG, ISR, RAG" />
 
 ---
 
