@@ -36,13 +36,9 @@ I build **fast, scalable web apps** using **React**, **Next.js**, **Node.js**, *
 I've shipped **production features** across startup, agency, and freelance environments, working directly with clients to turn requirements into working products.
 
 I care about **clean architecture**, **responsive UI**, and code that's **easy to maintain**.
-
-## <br/>
+<br/>
 
 ## 🛠 Tech Stack
-
-<br/>
-<br clear="both"/>
 
 ### Technology Stack
 
