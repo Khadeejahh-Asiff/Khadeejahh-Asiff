@@ -34,27 +34,37 @@ Currently building at **[Techverx](https://techverx.com)**. Open to **remote rol
 
 ## 🛠 Tech Stack
 
-<p align="center"><b>Technology Stack</b></p>
-
----
-
 <p align="center">
-  <img height="72" src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,nodejs,nestjs,express,fastapi,mongodb,postgresql,prisma,supabase,redux,remix,mui&theme=dark&perline=8" alt="Technology Stack" />
+  <img src="https://img.shields.io/badge/Technology_Stack-00BFFF?style=for-the-badge&labelColor=000428" />
 </p>
 
-<br/>
-
-<p align="center"><b>Tools</b></p>
-
----
+<p align="center">
+  <img height="80" src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,nodejs&theme=dark&perline=8" alt="Frontend & runtime" />
+</p>
 
 <p align="center">
-  <img height="72" src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,figma,postman,vscode&theme=dark&perline=8" alt="Tools" />
+  <img height="80" src="https://skillicons.dev/icons?i=nestjs,express,fastapi,mongodb,postgresql,prisma,supabase,redux&theme=dark&perline=8" alt="Backend & data" />
 </p>
 
 <br/>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Tools-003366?style=for-the-badge&labelColor=001F54" />
+</p>
+
+<p align="center">
+  <img height="80" src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,figma,postman,vscode&theme=dark&perline=8" alt="Tools" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Also_Worked_With-001F54?style=flat-square&labelColor=000428" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square" />
