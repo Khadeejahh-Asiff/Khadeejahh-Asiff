@@ -19,37 +19,11 @@
 
 ## 👩‍💻 About Me
 
-**MERN Stack Developer** focused on building **responsive and scalable frontend applications**. Skilled in **React** and **Next.js** with experience in **API integration** and a foundational understanding of **backend concepts**.
+I build **fast, scalable web apps** with **React**, **Next.js**, **Node.js**, **NestJS**, and **MongoDB** — from job portals to internal workflow tools used by real teams.
 
-Continuously learning and exploring **artificial intelligence** — including **Generative AI**, **Agentic AI**, **RAG**, and **prompt engineering** — to expand technical expertise.
+I've shipped **production features** across startup, agency, and freelance environments, working directly with clients to turn requirements into working products. I care about **clean architecture**, **responsive UI**, and code that's **easy to maintain**.
 
-Strong focus on **component-based architecture**, **performance optimization**, and **SSR / SSG / ISR** patterns.
-
----
-
-## 💼 Work Experience
-
-### Software Engineer — [Techverx](https://techverx.com)
-
-`Oct 2025 – Present` · Onsite, Pakistan
-
-- **Heartland Rehab** — Rehabilitation platform with personalized physical therapy and recovery programs; holistic care through a user-friendly interface and streamlined patient experience.
-- **AkredCenter** — Web-based accreditation management with secure dashboard for submission, approval, and status tracking workflows.
-- **Tickato** — Event ticketing platform for browsing, managing, and handling ticket workflows within a scalable system.
-- **DMG** — Intelligent email automation using a **Vision-Language Model (VLM)** to categorize inputs and extract structured JSON for downstream workflow automation.
-
-`React.js` `Next.js` `TypeScript` `REST APIs` `AI / VLM`
-
----
-
-### Associate Software Engineer — Tekvaly
-
-`Oct 2024 – Oct 2025` · Onsite, Pakistan
-
-- **HireDroid** — Job portal connecting employers and candidates through skill-focused profiles and hiring workflows.
-- **ScrumDroid** — Internal workflow platform with centralized task management, activity monitoring, and modular data handling.
-
-`React.js` `Next.js` `Node.js` `MongoDB`
+**Currently building at [Techverx](https://techverx.com).** Open to **remote roles** and **freelance projects** — feel free to connect :)
 
 ---
 
