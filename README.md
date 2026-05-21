@@ -37,13 +37,11 @@ I've shipped **production features** across startup, agency, and freelance envir
 
 I care about **clean architecture**, **responsive UI**, and code that's **easy to maintain**.
 
-<br/>
-
-<br clear="both"/>
-
----
+## <br/>
 
 ## 🛠 Tech Stack
+
+<br clear="both"/>
 
 ### Technology Stack
 
