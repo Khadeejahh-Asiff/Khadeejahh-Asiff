@@ -27,14 +27,14 @@
 </td>
 <td width="58%" valign="top">
 
-<h3>Hey, I'm Khadeeja 👋</h3>
+<h3><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="Wave" /> Hey, I'm Khadeeja 👋</h3>
 <p><i>Full Stack Developer · React · Next.js · Node.js · NestJS · MongoDB</i></p>
 
 <br/>
 
-<p>🚀 I build <b>fast, scalable web apps</b> — from job portals to internal workflow tools used by real teams.</p>
+<p>🚀 I build <b>fast, scalable web apps</b> from job portals to internal workflow tools used by real teams.</p>
 
-<p>🤝 I've shipped <b>production features</b> across startup, agency & freelance — turning client requirements into working products.</p>
+<p>🤝 I've shipped <b>production features</b> across startup, agency & freelance turning client requirements into working products.</p>
 
 <p>💡 I care about <b>clean architecture</b>, <b>responsive UI</b>, and code that's <b>easy to maintain</b>.</p>
 
