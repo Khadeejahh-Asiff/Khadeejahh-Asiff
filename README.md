@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:001F54&height=180&section=header&text=Khadeeja%20Asif&fontColor=E0E0E0&fontSize=48&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20React%20%26%20Next.js&descSize=16&descAlignY=55&descAlign=50&animation=twinkling" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=I+turn+ideas+into+production-ready+apps;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Clean+UI+%E2%80%A2+Solid+architecture+%E2%80%A2+Real+teams;Open+to+remote+%26+freelance+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=I+turn+ideas+into+production-ready+apps;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Clean+UI+%E2%80%A2+Solid+architecture+%E2%80%A2+Real+teams;Open+to+remote+%26+freelance" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,24 +12,23 @@
 <p align="center">
   <a href="mailto:khadeejaasif323@gmail.com"><img src="https://img.shields.io/badge/Email-khadeejaasif323%40gmail.com-003366?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/khadeejah-asif/"><img src="https://img.shields.io/badge/LinkedIn-Connect-001F54?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/merium6"><img src="https://img.shields.io/badge/GitHub-merium6-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Khadeejahh-Asiff"><img src="https://img.shields.io/badge/GitHub-Khadeejahh--Asiff-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍-Lahore%2C%20Pakistan-003366?style=flat-square" />
-  <img src="https://img.shields.io/badge/💬-Let's%20collaborate-001F54?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-003366?style=flat-square" />
+  <img src="https://img.shields.io/badge/Message-Let's%20collaborate-001F54?style=flat-square" />
   <img src="https://img.shields.io/badge/WhatsApp-%2B92%203334304342-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merium6&show_icons=true&theme=tokyo_night&hide_border=true&bg_color=000428&title_color=00BFFF&icon_color=00BFFF&text_color=E0E0E0&border_radius=10" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merium6&theme=tokyo_night&hide_border=true&background=000428&stroke=001F54&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideNums=E0E0E0&currStreakNum=E0E0E0&sideLabels=E0E0E0&dates=888" height="165" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merium6&layout=compact&theme=tokyo_night&hide_border=true&bg_color=000428&title_color=00BFFF&text_color=E0E0E0&border_radius=10&langs_count=6" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khadeejahh-Asiff&show_icons=true&theme=tokyo_night&hide_border=true&bg_color=000428&title_color=00BFFF&icon_color=00BFFF&text_color=E0E0E0&border_radius=10" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadeejahh-Asiff&layout=compact&theme=tokyo_night&hide_border=true&bg_color=000428&title_color=00BFFF&text_color=E0E0E0&border_radius=10&langs_count=6" height="165" alt="Top Languages" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097596/115834477-dbab4500-a447-11eb-908a-139a527eda45.svg" width="100%">
+---
 
 ## ✨ About Me
 
@@ -71,19 +70,24 @@ Remote roles & freelance projects
   <img src="https://img.shields.io/badge/Stack-MERN+%2B%20NestJS-003366?style=for-the-badge&labelColor=001F54" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097596/115834477-dbab4500-a447-11eb-908a-139a527eda45.svg" width="100%">
+---
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,mongodb,postgresql,prisma,supabase" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=redux,git,docker,vercel,netlify,figma,postman" />
-</p>
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <details>
 <summary><b>📦 Also comfortable with</b></summary>
@@ -99,7 +103,7 @@ Remote roles & freelance projects
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097596/115834477-dbab4500-a447-11eb-908a-139a527eda45.svg" width="100%">
+---
 
 ## 🚀 Featured Projects
 
@@ -158,7 +162,7 @@ Remote roles & freelance projects
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097596/115834477-dbab4500-a447-11eb-908a-139a527eda45.svg" width="100%">
+---
 
 ## 🎓 Education
 
@@ -169,10 +173,6 @@ Remote roles & freelance projects
 </p>
 
 <br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=merium6&label=Profile%20views&color=00BFFF&style=flat-square" alt="Profile views" />
-</p>
 
 <p align="center">
   <b>Thanks for stopping by — let's build something great together ✨</b><br/>
