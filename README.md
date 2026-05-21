@@ -46,16 +46,9 @@ Currently building at **[Techverx](https://techverx.com)**. Open to **remote rol
 
 ### Also Worked With
 
-![Remix](https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![SSR](https://img.shields.io/badge/SSR-003366?style=flat-square)
-![SSG](https://img.shields.io/badge/SSG-003366?style=flat-square)
-![ISR](https://img.shields.io/badge/ISR-003366?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-00BFFF?style=flat-square)
+<img height="80" src="https://skillicons.dev/icons?i=remix,mui,openai,socketio,shadcn,framer&theme=dark&perline=8" alt="Remix, MUI, OpenAI, Socket.io, ShadCN, Framer" />
+
+<img height="80" src="https://skillicons.dev/icons?i=nextjs,astro,vercel,pytorch&theme=dark&perline=8" alt="SSR, SSG, ISR, RAG" />
 
 ---
 
