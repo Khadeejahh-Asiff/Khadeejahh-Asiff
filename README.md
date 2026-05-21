@@ -41,6 +41,7 @@ I care about **clean architecture**, **responsive UI**, and code that's **easy t
 
 ## 🛠 Tech Stack
 
+<br/>
 <br clear="both"/>
 
 ### Technology Stack
