@@ -27,23 +27,17 @@
 
 ### Hey, I'm Khadeeja 👋
 
-*Full Stack Developer · React · Next.js · Node.js · NestJS · MongoDB*
+_Full Stack Developer · React · Next.js · Node.js · NestJS · MongoDB_
 
 <br/>
 
-I build **fast, scalable web apps** using **React**, **Next.js**, **Node.js**, **NestJS**, and **MongoDB** — from job portals to internal workflow tools used by real teams.
+I build **fast, scalable web apps** using **React**, **Next.js**, **Node.js**, **NestJS**, and **MongoDB** from job portals to internal workflow tools used by real teams.
 
 I've shipped **production features** across startup, agency, and freelance environments, working directly with clients to turn requirements into working products.
 
 I care about **clean architecture**, **responsive UI**, and code that's **easy to maintain**.
 
 <br/>
-
-<p align="center">
-  <a href="https://techverx.com"><img src="https://img.shields.io/badge/Currently-Techverx-00BFFF?style=for-the-badge&labelColor=001F54" /></a>
-  <img src="https://img.shields.io/badge/Open_To-Remote%20%7C%20Freelance-003366?style=for-the-badge&labelColor=001F54" />
-  <a href="mailto:khadeejaasif323@gmail.com"><img src="https://img.shields.io/badge/Let%27s_Connect-feel%20free%20%3A%29-25D366?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 <br clear="both"/>
 
