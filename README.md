@@ -17,14 +17,6 @@
     <a href="https://github.com/Khadeejahh-Asiff"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </td>
 </tr>
-<tr>
-  <td align="center" colspan="3">
-    <br/>
-    <img src="https://img.shields.io/badge/Lahore-Pakistan-003366?style=for-the-badge&labelColor=001F54" />
-    <img src="https://img.shields.io/badge/Techverx-Building_Now-00BFFF?style=for-the-badge&labelColor=001F54" />
-    <a href="https://wa.me/923334304342"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  </td>
-</tr>
 </table>
 
 ---
