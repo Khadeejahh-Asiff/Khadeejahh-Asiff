@@ -23,9 +23,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="left" width="130" alt="Octocat waving" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" />
-
-<img align="right" width="230" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" />
+<img align="right" width="130" alt="Octocat waving" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" />
 
 ### Hey, I'm Khadeeja 👋
 
