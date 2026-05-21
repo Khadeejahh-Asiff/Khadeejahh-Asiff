@@ -27,7 +27,7 @@
 </td>
 <td width="58%" valign="top">
 
-<h3><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="Wave" /> Hey, I'm Khadeeja 👋</h3>
+<h3><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80" alt="Wave" /> Hey, I'm Khadeeja</h3>
 <p><i>Full Stack Developer · React · Next.js · Node.js · NestJS · MongoDB</i></p>
 
 <br/>
