@@ -20,17 +20,36 @@
 
 ## 👩‍💻 About Me
 
+<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230" alt="Coding GIF" />
+
 I build fast, scalable web apps using **React**, **Next.js**, **Node.js**, **NestJS**, and **MongoDB** from job portals to internal workflow tools used by real teams.
 
 I've shipped production features across startup, agency, and freelance environments, working directly with clients to turn requirements into working products. I care about **clean architecture**, **responsive UI**, and code that's **easy to maintain**.
 
 Currently building at **[Techverx](https://techverx.com)**. Open to **remote roles** and **freelance projects** — feel free to connect :)
 
+<br clear="both"/>
+
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
+<p align="center">
+  <b>Everyday stack</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+<br/>
+
+### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -44,7 +63,7 @@ Currently building at **[Techverx](https://techverx.com)**. Open to **remote rol
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-### Backend & APIs
+### ⚙️ Backend & APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -54,27 +73,31 @@ Currently building at **[Techverx](https://techverx.com)**. Open to **remote rol
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-### Databases & BaaS
+### 🗄️ Databases & BaaS
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### State & Data Fetching
+<details>
+<summary><b>📂 More skills — click to expand</b></summary>
+<br/>
+
+#### State & Data Fetching
 
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![SWR](https://img.shields.io/badge/SWR-000000?style=flat-square)
 ![Zustand](https://img.shields.io/badge/Zustand-44339E?style=flat-square)
 
-### AI & Learning
+#### AI & Learning
 
 ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6A0DAD?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-00BFFF?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-005571?style=flat-square)
 
-### Rendering & Architecture
+#### Rendering & Architecture
 
 ![SSR](https://img.shields.io/badge/SSR-003366?style=flat-square)
 ![SSG](https://img.shields.io/badge/SSG-003366?style=flat-square)
@@ -82,7 +105,7 @@ Currently building at **[Techverx](https://techverx.com)**. Open to **remote rol
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-001F54?style=flat-square)
 ![Performance](https://img.shields.io/badge/Performance_Optimization-444?style=flat-square)
 
-### Tools & Platforms
+#### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -92,6 +115,8 @@ Currently building at **[Techverx](https://techverx.com)**. Open to **remote rol
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+</details>
 
 ---
 
