@@ -46,9 +46,7 @@ Currently building at **[Techverx](https://techverx.com)**. Open to **remote rol
 
 ### Also Worked With
 
-<img height="80" src="https://skillicons.dev/icons?i=remix,mui,openai,socketio,shadcn,framer&theme=dark&perline=8" alt="Remix, MUI, OpenAI, Socket.io, ShadCN, Framer" />
-
-<img height="80" src="https://skillicons.dev/icons?i=nextjs,astro,vercel,pytorch&theme=dark&perline=8" alt="SSR, SSG, ISR, RAG" />
+<img height="80" src="https://skillicons.dev/icons?i=remix,mui,openai,socketio,shadcn,framer,nextjs,astro,vercel,pytorch&theme=dark&perline=10" alt="Also worked with" />
 
 ---
 
