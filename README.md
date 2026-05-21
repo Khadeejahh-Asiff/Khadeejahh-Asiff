@@ -20,13 +20,23 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230" alt="Coding GIF" />
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="320" />
 
-I build fast, scalable web apps using **React**, **Next.js**, **Node.js**, **NestJS**, and **MongoDB** from job portals to internal workflow tools used by real teams.
+**Full Stack Developer** · React · Next.js · Node.js · NestJS · MongoDB
 
-I've shipped production features across startup, agency, and freelance environments, working directly with clients to turn requirements into working products. I care about **clean architecture**, **responsive UI**, and code that's **easy to maintain**.
+<br/>
 
-Currently building at **[Techverx](https://techverx.com)**. Open to **remote roles** and **freelance projects**, feel free to connect :)
+I build fast, scalable web apps using **React**, **Next.js**, **Node.js**, **NestJS**, and **MongoDB** — from job portals to internal workflow tools used by real teams.
+
+I've shipped **production features** across startup, agency, and freelance environments, working directly with clients to turn requirements into working products.
+
+I care about **clean architecture**, **responsive UI**, and code that's **easy to maintain**.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Building_at-Techverx-00BFFF?style=for-the-badge&labelColor=001F54" />
+<img src="https://img.shields.io/badge/Open_to-Remote%20%7C%20Freelance-003366?style=for-the-badge&labelColor=001F54" />
+<a href="mailto:khadeejaasif323@gmail.com"><img src="https://img.shields.io/badge/Feel_free_to-Connect%20%3A%29-25D366?style=for-the-badge&labelColor=000428" /></a>
 
 <br clear="both"/>
 
