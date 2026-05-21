@@ -34,46 +34,28 @@ Currently building at **[Techverx](https://techverx.com)**. Open to **remote rol
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Technology_Stack-00BFFF?style=for-the-badge&labelColor=000428" />
-</p>
+### Technology Stack
 
-<p align="center">
-  <img height="80" src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,nodejs&theme=dark&perline=8" alt="Frontend & runtime" />
-</p>
+<img height="80" src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,nodejs&theme=dark&perline=8" alt="Frontend & runtime" />
 
-<p align="center">
-  <img height="80" src="https://skillicons.dev/icons?i=nestjs,express,fastapi,mongodb,postgresql,prisma,supabase,redux&theme=dark&perline=8" alt="Backend & data" />
-</p>
+<img height="80" src="https://skillicons.dev/icons?i=nestjs,express,fastapi,mongodb,postgresql,prisma,supabase,redux&theme=dark&perline=8" alt="Backend & data" />
 
-<br/>
+### Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tools-003366?style=for-the-badge&labelColor=001F54" />
-</p>
+<img height="80" src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,figma,postman,vscode&theme=dark&perline=8" alt="Tools" />
 
-<p align="center">
-  <img height="80" src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,figma,postman,vscode&theme=dark&perline=8" alt="Tools" />
-</p>
+### Also Worked With
 
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Also_Worked_With-001F54?style=flat-square&labelColor=000428" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSR-003366?style=flat-square" />
-  <img src="https://img.shields.io/badge/SSG-003366?style=flat-square" />
-  <img src="https://img.shields.io/badge/ISR-003366?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-00BFFF?style=flat-square" />
-</p>
+![Remix](https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![SSR](https://img.shields.io/badge/SSR-003366?style=flat-square)
+![SSG](https://img.shields.io/badge/SSG-003366?style=flat-square)
+![ISR](https://img.shields.io/badge/ISR-003366?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-00BFFF?style=flat-square)
 
 ---
 
