@@ -27,7 +27,9 @@
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="260" />
+<img align="left" width="140" alt="QR Code" src="https://raw.githubusercontent.com/Khadeejahh-Asiff/Khadeejahh-Asiff/master/qrcode_Khadeejahh-Asiff.github.io.png" />
+
+<img align="right" width="240" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" />
 
 <h3><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45" alt="Wave" /> Hey, I'm Khadeeja 👋</h3>
 
