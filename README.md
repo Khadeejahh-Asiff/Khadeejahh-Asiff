@@ -23,33 +23,33 @@
 
 ## 👩‍💻 About Me
 
-<table>
-<tr>
-<td width="42%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="280" />
-</td>
-<td width="58%" valign="top">
-
-<h3><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="Wave" /> Hey, I'm Khadeeja 👋</h3>
-<p><i>Full Stack Developer · React · Next.js · Node.js · NestJS · MongoDB</i></p>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <br/>
 
-<p>🚀 I build <b>fast, scalable web apps</b> from job portals to internal workflow tools used by real teams.</p>
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="260" />
 
-<p>🤝 I've shipped <b>production features</b> across startup, agency & freelance turning client requirements into working products.</p>
+<h3><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45" alt="Wave" /> Hey, I'm Khadeeja 👋</h3>
 
-<p>💡 I care about <b>clean architecture</b>, <b>responsive UI</b>, and code that's <b>easy to maintain</b>.</p>
+*Full Stack Developer · React · Next.js · Node.js · NestJS · MongoDB*
 
-</td>
-</tr>
-</table>
+<br/>
+
+I build **fast, scalable web apps** using **React**, **Next.js**, **Node.js**, **NestJS**, and **MongoDB** — from job portals to internal workflow tools used by real teams.
+
+I've shipped **production features** across startup, agency, and freelance environments, working directly with clients to turn requirements into working products.
+
+I care about **clean architecture**, **responsive UI**, and code that's **easy to maintain**.
+
+<br/>
 
 <p align="center">
   <a href="https://techverx.com"><img src="https://img.shields.io/badge/Currently-Techverx-00BFFF?style=for-the-badge&labelColor=001F54" /></a>
   <img src="https://img.shields.io/badge/Open_To-Remote%20%7C%20Freelance-003366?style=for-the-badge&labelColor=001F54" />
   <a href="mailto:khadeejaasif323@gmail.com"><img src="https://img.shields.io/badge/Let%27s_Connect-feel%20free%20%3A%29-25D366?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<br clear="both"/>
 
 ---
 
