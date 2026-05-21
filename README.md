@@ -1,19 +1,29 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:001F54&height=160&section=header&text=Khadeeja%20Asif&fontColor=E0E0E0&fontSize=45&fontAlignY=35&animation=twinkling" />
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Connect-With_Me-00BFFF?style=for-the-badge&labelColor=000428" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45" alt="Wave" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+React+%26+Next.js;Building+Fast+%26+Scalable+Web+Apps;Open+to+Remote+%26+Freelance+Work" alt="Typing SVG" />
 </p>
 
+<br/>
+
 <p align="center">
-  <a href="mailto:khadeejaasif323@gmail.com"><img src="https://img.shields.io/badge/Email-khadeejaasif323%40gmail.com-003366?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/khadeejah-asif/"><img src="https://img.shields.io/badge/LinkedIn-Khadeeja%20Asif-001F54?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/Khadeejahh-Asiff"><img src="https://img.shields.io/badge/GitHub-Khadeejahh--Asiff-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:khadeejaasif323@gmail.com"><img src="https://img.shields.io/badge/Gmail-khadeejaasif323%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/khadeejah-asif/"><img src="https://img.shields.io/badge/LinkedIn-Khadeeja%20Asif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Khadeejahh-Asiff"><img src="https://img.shields.io/badge/GitHub-Khadeejahh--Asiff-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-003366?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Building%20at%20Techverx-00BFFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/WhatsApp-%2B92%203334304342-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lahore-Pakistan-003366?style=for-the-badge&labelColor=001F54" />
+  <img src="https://img.shields.io/badge/Status-Building%20at%20Techverx-00BFFF?style=for-the-badge&labelColor=001F54" />
+  <a href="https://wa.me/923334304342"><img src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
