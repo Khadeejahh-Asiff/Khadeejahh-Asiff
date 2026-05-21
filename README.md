@@ -1,88 +1,38 @@
-<!-- Hero card: cyan border + dark inner (shadow-style) -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td align="center" bgcolor="#00BFFF">
-      <table width="100%" cellpadding="0" cellspacing="0">
-        <tr>
-          <td align="center" bgcolor="#000428">
-            <br/>
-            <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave" width="32" />
-            <h1 align="center">Hi, I'm Khadeeja Asif</h1>
-            <h3 align="center">Full-Stack Developer · React & Next.js · Node.js & NestJS</h3>
-            <br/>
-            <p align="center">
-              <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
-              &nbsp;&nbsp;
-              <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" />
-              &nbsp;&nbsp;
-              <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
-              &nbsp;&nbsp;
-              <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" />
-              &nbsp;&nbsp;
-              <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
-              &nbsp;&nbsp;
-              <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
-            </p>
-            <br/>
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer+%7C+React+%26+Next.js;Building+Fast+%26+Scalable+Web+Apps;Open+to+Remote+%26+Freelance+Work" alt="Typing SVG" />
-            <br/><br/>
-            <img src="https://img.shields.io/badge/Status-Building%20at%20Techverx-00BFFF?style=for-the-badge&labelColor=001F54" />
-            <img src="https://img.shields.io/badge/Open%20to-Remote%20%7C%20Freelance-003366?style=for-the-badge&labelColor=001F54" />
-            <br/><br/>
-            <a href="mailto:khadeejaasif323@gmail.com"><img src="https://img.shields.io/badge/Email-khadeejaasif323%40gmail.com-003366?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-            <a href="https://www.linkedin.com/in/khadeejah-asif/"><img src="https://img.shields.io/badge/LinkedIn-Connect-001F54?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-            <a href="https://github.com/Khadeejahh-Asiff"><img src="https://img.shields.io/badge/GitHub-Khadeejahh--Asiff-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-            <br/><br/>
-            <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-003366?style=flat-square" />
-            <img src="https://img.shields.io/badge/Message-Let%27s%20collaborate-001F54?style=flat-square" />
-            <img src="https://img.shields.io/badge/WhatsApp-%2B92%203334304342-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
-            <br/><br/>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097596/115834477-dbab4500-a447-11eb-908a-139a527eda45.svg" width="100%">
-
-<!-- About card -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td align="center" bgcolor="#001F54">
-      <table width="100%" cellpadding="0" cellspacing="0">
-        <tr>
-          <td bgcolor="#000428">
-            <br/>
-            <h2 align="center">👩‍💻 About Me</h2>
-            <br/>
-            <p align="center">
-              I build <b>fast, scalable web apps</b> with <b>React</b>, <b>Next.js</b>, <b>Node.js</b>, <b>NestJS</b>, and <b>MongoDB</b> — from job portals to internal workflow tools used by real teams.
-            </p>
-            <p align="center">
-              I've shipped <b>production features</b> across startup, agency, and freelance environments, working directly with clients to turn requirements into working products. I care about <b>clean architecture</b>, <b>responsive UI</b>, and code that's <b>easy to maintain</b>.
-            </p>
-            <p align="center">
-              <b>Currently building at <a href="https://techverx.com">Techverx</a>.</b> Open to <b>remote roles</b> and <b>freelance projects</b> — feel free to connect :)
-            </p>
-            <br/>
-            <p align="center">
-              <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-00BFFF?style=for-the-badge&labelColor=001F54" />
-              <img src="https://img.shields.io/badge/Stack-MERN+%2B%20NestJS-003366?style=for-the-badge&labelColor=001F54" />
-            </p>
-            <br/>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097596/115834477-dbab4500-a447-11eb-908a-139a527eda45.svg" width="100%">
+<h1 align="center">Hi, I'm Khadeeja Asif 👋</h1>
+<h3 align="center">Full-Stack Developer · React & Next.js · Node.js & NestJS</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🛠-Tech_Stack-00BFFF?style=for-the-badge&labelColor=000428" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer+%7C+React+%26+Next.js;Building+Fast+%26+Scalable+Web+Apps;Open+to+Remote+%26+Freelance+Work" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building%20at%20Techverx-00BFFF?style=for-the-badge&labelColor=001F54" />
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20%7C%20Freelance-003366?style=for-the-badge&labelColor=001F54" />
+</p>
+
+<p align="center">
+  <a href="mailto:khadeejaasif323@gmail.com"><img src="https://img.shields.io/badge/Email-khadeejaasif323%40gmail.com-003366?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/khadeejah-asif/"><img src="https://img.shields.io/badge/LinkedIn-Connect-001F54?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Khadeejahh-Asiff"><img src="https://img.shields.io/badge/GitHub-Khadeejahh--Asiff-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-003366?style=flat-square" />
+  <img src="https://img.shields.io/badge/Message-Let%27s%20collaborate-001F54?style=flat-square" />
+  <img src="https://img.shields.io/badge/WhatsApp-%2B92%203334304342-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+I build **fast, scalable web apps** with **React**, **Next.js**, **Node.js**, **NestJS**, and **MongoDB** — from job portals to internal workflow tools used by real teams.
+
+I've shipped **production features** across startup, agency, and freelance environments, working directly with clients to turn requirements into working products. I care about **clean architecture**, **responsive UI**, and code that's **easy to maintain**.
+
+**Currently building at [Techverx](https://techverx.com).** Open to **remote roles** and **freelance projects** — feel free to connect :)
+
+---
 
 ## 🛠 Tech Stack
 
@@ -149,89 +99,66 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-<img src="https://user-images.githubusercontent.com/73097596/115834477-dbab4500-a447-11eb-908a-139a527eda45.svg" width="100%">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀-Featured_Projects-00BFFF?style=for-the-badge&labelColor=000428" />
-</p>
+---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🏥 Heartland Rehab
 
-> Rehabilitation platform offering personalized physical therapy and recovery programs.
+> Rehabilitation platform offering personalized physical therapy and recovery programs to help individuals regain strength, mobility, and confidence.
 
 `React.js` `Next.js` `TypeScript` `REST APIs`
 
+---
+
 ### 📋 AkredCenter
 
-> Accreditation management with secure dashboards for submission, approval & tracking.
+> Web-based accreditation management system with secure dashboard for tracking, submission, approval, and status workflows.
 
 `React.js` `Next.js` `PostgreSQL`
 
+---
+
 ### 🎫 Tickato
 
-> Event ticketing — browse, manage & handle ticket workflows at scale.
+> Ticket management platform for streamlined event ticketing, browsing, and scalable ticket workflows.
 
 `React.js` `Next.js` `Node.js`
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 📧 DMG — Email Automation
+### 📧 DMG — Intelligent Email Automation
 
-> **VLM**-powered email automation — categorize inputs & extract structured JSON.
+> Automates email processing using a **Vision-Language Model (VLM)** to categorize inputs and extract structured JSON for workflow automation.
 
 `AI` `VLM` `FastAPI` `Automation`
 
+---
+
 ### 💼 HireDroid
 
-> Job portal connecting employers & candidates through skill-focused profiles.
+> Job portal connecting employers and candidates through skill-focused profiles and efficient hiring workflows.
 
 `React.js` `Next.js` `MongoDB`
 
+---
+
 ### 📊 ScrumDroid
 
-> Internal workflow platform for tasks, activity monitoring & modular ops.
+> Internal management platform for tasks, activity monitoring, and modular operational workflows.
 
 `React.js` `Node.js` `Express.js`
 
-</td>
-</tr>
-</table>
+---
 
-<img src="https://user-images.githubusercontent.com/73097596/115834477-dbab4500-a447-11eb-908a-139a527eda45.svg" width="100%">
+## 🎓 Education
 
-<!-- Education + footer card -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td align="center" bgcolor="#00BFFF">
-      <table width="100%" cellpadding="0" cellspacing="0">
-        <tr>
-          <td align="center" bgcolor="#000428">
-            <br/>
-            <h2 align="center">🎓 Education</h2>
-            <br/>
-            <p align="center">
-              <b>Bachelor of Science in Software Engineering</b><br/>
-              University of Central Punjab, Lahore<br/>
-              <code>Jul 2020 – Jul 2024</code> · <b>CGPA: 3.61 / 4.00</b>
-            </p>
-            <br/>
-            <img src="https://img.shields.io/badge/B.S.%20Software%20Engineering-UCP-003366?style=for-the-badge&labelColor=001F54" />
-            <img src="https://img.shields.io/badge/CGPA-3.61%2F4.00-00BFFF?style=for-the-badge&labelColor=001F54" />
-            <br/><br/>
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=00BFFF&center=true&width=500&lines=Thanks+for+visiting!;Let%27s+build+something+amazing+together" alt="Footer typing" />
-            <br/><br/>
-            <b>Remote roles · freelance projects · or a tech chat — feel free to connect ✨</b>
-            <br/><br/>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+**Bachelor of Science in Software Engineering** — University of Central Punjab, Lahore  
+`Jul 2020 – Jul 2024` · **CGPA: 3.61 / 4.00**
+
+---
+
+<p align="center">
+  <b>Thanks for stopping by — let's build something great together ✨</b><br/>
+  <sub>Remote roles · freelance projects · or just a tech chat — feel free to connect</sub>
+</p>
