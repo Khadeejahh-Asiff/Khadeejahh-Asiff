@@ -59,3 +59,5 @@ I care about **clean architecture**, **responsive UI**, and code that's **easy t
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:001F54&height=120&section=footer&text=Let%27s%20Build%20the%20Future%20of%20Code&fontColor=E0E0E0&fontSize=20&fontAlignY=40&animation=twinkling" />
+
+[![Khadeejahh-Asiff's GitHub stats](https://gitshine.com/card/Khadeejahh-Asiff)](https://gitshine.com/stats/Khadeejahh-Asiff)
